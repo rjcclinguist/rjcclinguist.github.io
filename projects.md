@@ -3,4 +3,4 @@
 
 | [About me](README.md) | [CV](cv.md) | **Projects** | [Contact](contact.md) |
 
-### Projects
+## Projects
