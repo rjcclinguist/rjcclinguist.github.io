@@ -6,7 +6,7 @@
 ### Interests
 Autosegmental and metrical phonology, prosody, articulatory phonetics, the psychology of bilingualism, speech-language disorders, and the language-music interface.
 
-### About me
+### My Research
 I'm Ray, a master's student in theoretical linguistics at Université de Montréal and graduating in 2027.
 
 I specialize in phonology, the study of sound systems in natural language. Phonologists look to build abstract mathematical models that represent how sounds are generated, organized, and processed by our brain. Specifically, I use phonetic data (acoustic measurements) and psycholinguistic data (cognitive measurements) to make predictions about the patterns of interaction between speech sounds in different languages.
