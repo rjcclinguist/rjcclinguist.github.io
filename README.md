@@ -1,5 +1,5 @@
-# Raimundo (Ray) Cox-Casals
-##### [rajˈmundo ˈkɑks kəˈzaɫs]
+# Raimundo Cox-Casals (Ray)
+#### [rajˈmundo ˈkɑks kəˈzaɫs]
 
 ### Interests
 Autosegmental and metrical phonology, prosody, articulatory phonetics, the psychology of bilingualism, speech-language disorders, and the language-music interface.
@@ -17,4 +17,5 @@ My honours thesis focused on the mental representations of consonants in Chilean
 
 ### Professional Experience
 **Transcriptionist (Research Assistant)**
+
 Prof. Heather Goad's Laboratory
