@@ -1,7 +1,9 @@
 # Raimundo Cox-Casals
 #### [rajˈmundo ˈkɑks kəˈzaɫs]
 
-| [About me](README.md) | **CV** | [Projects](projects.md) | [Contact](contact.md) | **English** \| Français \| Español
+| [About me](README.md) | **CV** | [Projects](projects.md) | [Contact](contact.md) | 
+
+**English** \| [Français](cvfr.md)
 
 ## Curriculum Vitae
 ### Education
@@ -112,13 +114,3 @@ _Community chorus in Santiago, Chile_
 **Special Needs Counsellor** | June 2019  
 _Escuela Especial Juan Pablo II, Santiago, Chile_
 - Running activities and workshops with children and aiding in resolving conflicts.
-
-
-
-
-
-
-
-
-
-
