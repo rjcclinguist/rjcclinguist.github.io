@@ -6,111 +6,111 @@
 [English](cv.md) \| **Français**
 
 ## Curriculum Vitae
-### Education
-- M.A.Sc. in Linguistics - Université de Montréal (ongoing)
-- B.A. (Hons.) in Linguistics, Minor in Music - McGill University (2025)
+### Formation
+- M.A.Sc. en linguistique – Université de Montréal (en cours)
+- B.A. spécialisé en linguistique, mineure en musique – McGill University (2025)
 
-### Skills
-**Languages**  
-- English - fluent (dominant language)  
-- Spanish - fluent (native language)  
-- French - advanced (B2)  
-- Catalan - advanced (heritage language)  
-- Italian - intermediate (B1)
+### Compétences
+**Langues**
+- Anglais – courant (langue dominante)
+- Espagnol – courant (langue maternelle)
+- Français – avancé (B2)
+- Catalan – avancé (langue d’héritage)
+- Italien – intermédiaire (B1)
 
-**Software**  
-- MS Office (Excel, Word, Outlook, etc.)  
-- Praat  
-- LaTeX  
+**Logiciels**
+- MS Office (Excel, Word, Outlook, etc.)
+- Praat
+- LaTeX
 - LogicProX
 
-### Professional Experience
-**Peer Mentor** | 2023-ongoing  
-_Linguistics Undergraduate Association (LingUA)_
-- Private tutoring for undergraduate students enrolled in linguistics courses.
+### Expérience professionnelle
+**Mentor pair** | 2023–en cours  
+_LingUA — Association des étudiant·e·s en linguistique_
+- Tutorat privé pour les étudiant·e·s de premier cycle en linguistique.
 
-**Transcriptionist (RA)** | 2023-2024  
-_Prof. Heather Goad’s Laboratory (McGill University)_
--	Transcribing (in IPA) data on bilingual child language acquisition for research in speech-language pathology.
-- Analyzing specific speech sound patterns and identifying dialect differences using Praat.
+**Transcripteur (Assistant de recherche)** | 2023–2024  
+_Laboratoire de la Pr Heather Goad (McGill University)_
+- Transcription (en API) de données sur l’acquisition du langage chez les enfants bilingues pour des recherches en orthophonie.
+- Analyse des schémas sonores spécifiques et identification des différences dialectales à l’aide de Praat.
 
-### Research Experience
-**Co-Investigator in Psycholinguistics Study** | Winter 2025-ongoing  
+### Expérience en recherche
+**Co-chercheur dans une étude en psycholinguistique** | Hiver 2025–en cours  
 _Prosody Lab, PI Michael Wagner (McGill University)_
--	Designing and revising stimuli for psycholinguistic experiments on Spanish and Portuguese speakers.
-- Providing native speaker insight and discussing advancements with the research team.
+- Conception et révision de stimuli pour des expériences psycholinguistiques auprès de locuteurs d'espagnol et de portugais.
+- Apport d’un point de vue de locuteur natif et discussions avec l’équipe de recherche.
 
-**Honours Thesis and Field Work with Chilean Spanish** | Fall 2024–ongoing  
-_Supv. Heather Goad_
-- Collecting data from native Chilean Spanish speakers through in-person elicitations.
-- Using Praat and spreadsheets to compile the data, and LaTeX to code diagrams.
+**Mémoire de baccalauréat et travail de terrain sur l’espagnol chilien** | Automne 2024–en cours  
+_Supv Heather Goad_
+- Collecte de données auprès de locuteurs natifs de l’espagnol chilien par élicitations en personne.
+- Compilation des données avec Praat et tableurs, et création de diagrammes avec LaTeX.
 
-**Field Work with Sereer** | Fall 2024  
-_LING 415: Field Methods of Linguistics_
--	Recording in-class and individual elicitations with a native Sereer speaker.
--	Developing skills in data management, transcription, and analysis.
+**Travail de terrain sur le sérère-sine** | Automne 2024  
+_LING 415 : Field Methods of Linguistics_
+- Enregistrement d’élicitations individuelles et en classe avec une locutrice native du sérère-sine.
+- Développement de compétences en gestion de données, transcription et analyse.
 
-### Teaching Experience
-**Guest Lecture on Metrical Phonology** | October 2024  
-_LING 410: Structure of a Specific Language (Japanese)_
-- Invited to present research on Japanese and English prosodic structure with evidence from song and poetry in both languages. 
+### Expérience d’enseignement
+**Cours invité sur la phonologie métrique** | Octobre 2024  
+_LING 410 : Structure d’une langue spécifique (japonais)_
+- Présentation de recherches sur la structure prosodique en japonais et en anglais, avec des exemples tirés de la poésie et de la chanson.
 
-**Review Sessions** | October 2024  
-_LING 351 (midterm and final), LING 201 (midterm)_
-- Giving review sessions for exams in undergraduate linguistic courses.
+**Séances de révision** | Octobre 2024  
+_LING 351 (mi-session et examen final), LING 201 (mi-session)_
+- Animation de séances de révision pour les examens dans des cours de linguistique de premier cycle.
 
-**Co-Music Director** | 2023-2025  
+**Co-directeur musical** | 2023–2025  
 _Chromatones A Cappella_
-- Leading an official university a cappella group in rehearsal and concert.
-- Proofreading and arranging music for the ensemble’s repertoire.
- 
-**Language Tutor** | 2020–2022  
-_Self-employed_
-- Offering flexible private ESL lessons via Zoom.
+- Direction musicale d’un ensemble universitaire a cappella en répétition et concert.
+- Révision et arrangement de partitions pour le répertoire du groupe.
 
-### Papers and Talks
+**Tuteur en langues** | 2020–2022  
+_Auto-entrepreneur_
+- Cours privés flexibles d’anglais langue seconde (ESL) via Zoom.
+
+### Articles et présentations
 **Consonant Features of Chilean Spanish: A Case of Lenition and
-Underspecification** (poster) | June 2025 (forthcoming)  
-_72nd annual conference of the Canadian Linguistics Association_
+Underspecification** (affiche) | Juin 2025 (à venir)  
+_72e congrès annuel de l’Association canadienne de linguistique_
 
 **Pseudo-Geminates: An Autosegmental Approach to Consonant
-“Lengthening” in Chilean Spanish** | May 2025  
-_Honours Thesis_
+“Lengthening” in Chilean Spanish** | Mai 2025  
+_Mémoire de spécialisation_
 
-**Moving from Compensatory Lengthening to Partial Assimilation in Chilean Spanish** | April 2025  
-_Presentation at McCCLU 11. McGill University, Montreal QC_
+**Moving from Compensatory Lengthening to Partial Assimilation in Chilean Spanish** | Avril 2025  
+_Présentation à McCCLU 11. McGill University, Montréal QC_
 
-**Teasing Apart Tone and Stress in Athabaskan** | March 2025  
-_In Volume IV of JournalLing (McGill’s Undergraduate Linguistics Journal)_
+**Teasing Apart Tone and Stress in Athabaskan** | Mars 2025  
+_Dans le Volume IV du JournalLing (revue de linguistique de premier cycle de McGill)_
 
-**Not Everything is a Geminate: Linking Features to Prosody in Chilean Spanish** | March 2025  
-_Presentation at TULCON 18. University of Toronto, Toronto ON_
+**Not Everything is a Geminate: Linking Features to Prosody in Chilean Spanish** | Mars 2025  
+_Présentation à TULCON 18. University of Toronto, Toronto ON_
 
-**Stress and Intonation in Sereer-Sine: A Preliminary Analysis** | December 2024  
-_Co-authored final paper for LING 415: Field Methods in Linguistics_
+**Stress and Intonation in Sereer-Sine: A Preliminary Analysis** | Décembre 2024  
+_Thèse coécrite pour LING 415 : Field Methods in Linguistics_
 
-**Language Constrains Poetry: A Look at Japanese Haiku** | March 2024  
-_Presentation at TULCON 17. University of Toronto, Toronto ON_
+**Language Constrains Poetry: A Look at Japanese Haiku** | Mars 2024  
+_Présentation à TULCON 17. University of Toronto, Toronto ON_
 
-**Language Constrains Poetry** | April 2023  
-_Term paper for WCOM 250: Research Essay and Rhetoric_
+**Language Constrains Poetry** | Avril 2023  
+_Thèse pour WCOM 250 : Research Essay and Rhetoric_
 
-### Volunteering and Additional Experience
-**Academic Reading Group** | 2024–ongoing  
-_McGill's P*-Group (Phonetics and Phonology)_
+### Bénévolat et expérience additionelle
+**Groupe de lecture académique** | 2024–en cours
+_Le P* Group de McGill (Phonetics and Phonology)_
 
-**Volunteer Speech-Language Pathology Aid** | Fall 2024  
-_Blocks Therapy, Montreal QC_
-- Helping to conduct articulation sessions and social skills groups for neurodivergent children.
+**Aide bénévole en orthophonie** | Automne 2024  
+_Blocks Therapy, Montréal QC_
+- Aide à la conduite de séances d’articulation et d’activités sociales pour enfants neurodivergents.
 
-**Vice-President Internal** | 2023–2024  
+**Vice-président aux affaires internes** | 2023–2024  
 _Chromatones A Cappella_  
-- Internal communications and coordination of activities and events.
+- Gestion des communications internes et coordination des événements.
 
-**Choral Conductor** | July 2019  
-_Community chorus in Santiago, Chile_
-- Arranging music and conducting a high school-level vocal ensemble. 
+**Chef de chœur** | Juillet 2019  
+_Chorale communautaire à Santiago, Chili_
+- Arrangement musical et direction d’un ensemble vocal de niveau secondaire.
 
-**Special Needs Counsellor** | June 2019  
-_Escuela Especial Juan Pablo II, Santiago, Chile_
-- Running activities and workshops with children and aiding in resolving conflicts.
+**Animateur pour enfants à besoins particuliers** | Juin 2019  
+_Escuela Especial Juan Pablo II à Santiago, Chili_
+- Animation d’activités et ateliers avec les enfants, soutien dans la résolution de conflits.
