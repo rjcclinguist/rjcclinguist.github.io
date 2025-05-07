@@ -102,7 +102,7 @@ _Blocks Therapy, Montreal QC_
 - Helping to conduct articulation sessions and social skills groups for neurodivergent children.
 
 **Vice-President Internal** | 2023–2024  
-_Chromatones A Cappella_
+_Chromatones A Cappella_  
 •	Internal communications and coordination of activities and events.
 
 **Choral Conductor** | July 2019  
