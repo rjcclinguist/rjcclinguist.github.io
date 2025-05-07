@@ -10,14 +10,14 @@
 
 ### Skills
 **Languages**  
-English - fluent (dominant language)  
-Spanish - fluent (native language)  
-French - advanced (C1)  
-Catalan - advanced (heritage language)  
-Italian - intermediate (B1)
+- English - fluent (dominant language)  
+- Spanish - fluent (native language)  
+- French - advanced (C1)  
+- Catalan - advanced (heritage language)  
+- Italian - intermediate (B1)
 
 **Software**  
-MS Office (Excel, Word, Outlook, etc.)  
-Praat  
-LaTeX  
-LogicProX
+- MS Office (Excel, Word, Outlook, etc.)  
+- Praat  
+- LaTeX  
+- LogicProX
