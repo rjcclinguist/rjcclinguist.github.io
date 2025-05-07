@@ -1,10 +1,8 @@
-# Linguist
-
-![Raimundo Cox-Casals](/assets/Profile 2.jpg)
+# Raimundo (Ray) Cox-Casals
 
 ### Education
-- M.A.Sc. Linguistics | Université de Montréal (ongoing)
-- B.A. (Hons.) Linguistics, Minor in Music | McGill University (2025)
+- M.A.Sc. Linguistics - Université de Montréal (ongoing)
+- B.A. (Hons.) Linguistics, Minor in Music - McGill University (2025)
 
 ### Professional Experience
 - Transcriptionist (Research Assistant)
