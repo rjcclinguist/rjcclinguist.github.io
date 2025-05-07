@@ -103,7 +103,7 @@ _Blocks Therapy, Montreal QC_
 
 **Vice-President Internal** | 2023–2024  
 _Chromatones A Cappella_  
-•	Internal communications and coordination of activities and events.
+- Internal communications and coordination of activities and events.
 
 **Choral Conductor** | July 2019  
 _Community chorus in Santiago, Chile_
