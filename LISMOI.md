@@ -1,22 +1,23 @@
 # Raimundo Cox-Casals
 #### [rajˈmundo ˈkɑks kəˈzaɫs]
 
-| **About me** | [CV](cv.md) | [Projects](projects.md) | [Contact](contact.md) |
+| **À propos de moi** | [CV](cv.md) | [Projets](projects.md) | [Contact](contact.md) |
 
-[English](README.md) \| **Français** \| [Español](LEEME.md) \| [Català](LLEGEIXEM.md)
+[English](README.md) \| **Français**
 
-### Interests
-Autosegmental and metrical phonology, prosody, articulatory phonetics, the psychology of bilingualism, speech-language disorders, and the language-music interface.
+## À propos de moi
+### Intérêts
+Phonologie autosegmentale et métrique, prosodie, phonétique articulatoire, psychologie du bilinguisme, orthophonie, et l'interface entre langue et musique.
 
-### My Research
-I'm Ray, a master's student in theoretical linguistics at Université de Montréal and graduating in 2027.
+### Mes recherches
+Je m'appelle Ray, je suis étudiant à la maîtrise en linguistique théorique à l’Université de Montréal, avec une diplomation prévue en 2027.
 
-I specialize in phonology, the study of sound systems in natural language. Phonologists look to build abstract mathematical models that represent how sounds are generated, organized, and processed by our brain. Specifically, I use phonetic data (acoustic measurements) and psycholinguistic data (cognitive measurements) to make predictions about the patterns of interaction between speech sounds in different languages.
+Je me spécialise en phonologie, l’étude des systèmes sonores des langues naturelles. Les phonologues cherchent à construire des modèles mathématiques abstraits qui représentent la façon dont les sons sont générés, organisés et traités par notre cerveau. Plus précisément, j’utilise des données phonétiques (mesures acoustiques) et des données psycholinguistiques (mesures cognitives) pour faire des prédictions sur les schémas d’interaction entre les sons du langage dans différentes langues.
 
-My honours thesis focused on the mental representations of consonants in Chilean Spanish, and how a seemingly long consonant is derived from the convergence of two short consonants. This project looked to model the abtract underlying forms of different consonants, and how their surface phonetic forms are derived depending on their surrounding sounds. Think of it as a large latte: it looks like one big drink on the surface, but it the combination of a bit of coffee and a bit of milk; not just whole a lot of latte.
+Mon mémoire de spécialisation portait sur les représentations mentales des consonnes en espagnol chilien, et sur la manière dont une consonne apparemment longue résulte de la convergence de deux consonnes courtes. Ce projet visait à modéliser les formes sous-jacentes abstraites des différentes consonnes, ainsi que les formes phonétiques de surface qui en découlent selon les sons environnants. Imaginez un grand latté : il semble être une seule grande boisson en surface, mais il résulte de la combinaison d’un peu de café et d’un peu de lait — ce n’est pas simplement une grosse dose de latté.
 
-I have also studied the connection between language structure and music or poetry. How poems and songs are written across different languages gives clues toward the rhythmic, tonal, and intonational properties of different language systems. By comparing haikus written in Japanese and English, I motivated a revised model to capture typological differences in the role of the syllable in the two languages.
+J’ai également étudié la relation entre la structure linguistique et la musique ou la poésie. La façon dont les poèmes et les chansons sont écrits dans différentes langues donne des indices sur les propriétés rythmiques, tonales et intonatives de ces langues. En comparant des haïkus écrits en japonais et en anglais, j’ai proposé un modèle révisé pour capturer les différences typologiques dans le rôle de la syllabe entre les deux langues.
 
-Other topics I have investigated include the mechanics of tone and stress. These two prosodic elements are often described as being on a continuum, however, by drawing from existing evidence from Athabaskan languages (Pacific Northwest), I have argued that these are categorically different aspects of a language's grammar. Additionally, I looked at the interaction between stress and intonation in Sereer-Sine (Senegal) to uncover the various ways in which vocal pitch is manipulated by language.
+Parmi les autres sujets que j’ai explorés figurent les mécanismes du ton et de l’accent tonique. Ces deux éléments prosodiques sont souvent décrits comme formant un continuum, mais en m’appuyant sur des données des langues athapascanes (Nord-Ouest Pacifique), j’ai soutenu qu’il s’agit en réalité de catégories distinctes dans la grammaire. J’ai aussi étudié l’interaction entre l’accent et l’intonation en sérère-sine (Sénégal), afin de mettre en lumière comment la hauteur vocale est manipulée par la langue.
 
-Overall, my expertise lie in the musical aspects of language: rhythm, pitch, length, and the interaction between sounds. With my experience in linguistics and music, I approach my research with the scrutiny of a scientist and the tact of an artist.
+En somme, mon expertise porte sur les aspects musicaux du langage : rythme, hauteur, durée, et interaction des sons. Grâce à mon expérience en linguistique et en musique, j’aborde mes recherches avec la rigueur d’un scientifique et la sensibilité d’un artiste.
