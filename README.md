@@ -1,7 +1,7 @@
 # Raimundo Cox-Casals
 #### [rajˈmundo ˈkɑks kəˈzaɫs]
 
-| [About me](README.md) | [CV](cv.md) | [Projects](projects.md) | [Contact](contact.md) |
+| **About me** | [CV](cv.md) | [Projects](projects.md) | [Contact](contact.md) |
 
 ### Interests
 Autosegmental and metrical phonology, prosody, articulatory phonetics, the psychology of bilingualism, speech-language disorders, and the language-music interface.
