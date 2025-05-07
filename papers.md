@@ -7,6 +7,6 @@
 
 ## Read some of my work
 
-Cox-Casals, R. (2025b). _Pseudo-geminates: An autosegmental approach to consonant "lengthening" in Chilean Spanish._ \[Unpublished honours thesis\]. McGill University. [Read here](papers/cox2025 pseudo-gems.md)
+Cox-Casals, R. (2025b). _Pseudo-geminates: An autosegmental approach to consonant "lengthening" in Chilean Spanish._ \[Unpublished honours thesis\]. McGill University. [Read here](papers/cox2025 pseudo-gems.pdf)
 
 Cox-Casals, R. (2025a). Teasing apart tone and stress in Athabaskan. _JournalLing 4_(5), 49-76.
