@@ -24,46 +24,46 @@
 
 ### Professional Experience
 **Peer Mentor** | 2023-ongoing  
-_Linguistics Undergraduate Association (LingUA)_  
+_Linguistics Undergraduate Association (LingUA)_
 - Private tutoring for undergraduate students enrolled in linguistics courses.
 
 **Transcriptionist (RA)** | 2023-2024  
-_Prof. Heather Goad’s Laboratory (McGill University)_  
+_Prof. Heather Goad’s Laboratory (McGill University)_
 -	Transcribing (in IPA) data on bilingual child language acquisition for research in speech-language pathology.
 - Analyzing specific speech sound patterns and identifying dialect differences using Praat.
 
 ### Research Experience
 **Co-Investigator in Psycholinguistics Study** | Winter 2025-ongoing  
-_Prosody Lab, PI Michael Wagner (McGill University)_  
+_Prosody Lab, PI Michael Wagner (McGill University)_
 -	Designing and revising stimuli for psycholinguistic experiments on Spanish and Portuguese speakers.
 - Providing native speaker insight and discussing advancements with the research team.
 
 **Honours Thesis and Field Work with Chilean Spanish** | Fall 2024–ongoing  
-_Supv. Heather Goad_  
+_Supv. Heather Goad_
 - Collecting data from native Chilean Spanish speakers through in-person elicitations.
 - Using Praat and spreadsheets to compile the data, and LaTeX to code diagrams.
 
 **Field Work with Sereer** | Fall 2024  
-_LING 415: Field Methods of Linguistics_  
+_LING 415: Field Methods of Linguistics_
 -	Recording in-class and individual elicitations with a native Sereer speaker.
 -	Developing skills in data management, transcription, and analysis.
 
 ### Teaching Experience
 **Guest Lecture on Metrical Phonology** | October 2024  
-_LING 410: Structure of a Specific Language (Japanese)_  
+_LING 410: Structure of a Specific Language (Japanese)_
 - Invited to present research on Japanese and English prosodic structure with evidence from song and poetry in both languages. 
 
 **Review Sessions** | October 2024  
-_LING 351 (midterm and final), LING 201 (midterm)_  
+_LING 351 (midterm and final), LING 201 (midterm)_
 - Giving review sessions for exams in undergraduate linguistic courses.
 
 **Co-Music Director** | 2023-2025  
-_Chromatones A Cappella_  
+_Chromatones A Cappella_
 - Leading an official university a cappella group in rehearsal and concert.
 - Proofreading and arranging music for the ensemble’s repertoire.
  
 **Language Tutor** | 2020–2022  
-_Self-employed_  
+_Self-employed_
 - Offering flexible private ESL lessons via Zoom.
 
 ### Papers and Talks
@@ -98,19 +98,19 @@ _Term paper for WCOM 250: Research Essay and Rhetoric_
 _McGill's P*-Group (Phonetics and Phonology)_
 
 **Volunteer Speech-Language Pathology Aid** | Fall 2024  
-_Blocks Therapy, Montreal QC_  
+_Blocks Therapy, Montreal QC_
 - Helping to conduct articulation sessions and social skills groups for neurodivergent children.
 
 **Vice-President Internal** | 2023–2024  
-_Chromatones A Cappella_  
+_Chromatones A Cappella_
 •	Internal communications and coordination of activities and events.
 
 **Choral Conductor** | July 2019  
-_Community chorus in Santiago, Chile_  
+_Community chorus in Santiago, Chile_
 - Arranging music and conducting a high school-level vocal ensemble. 
 
 **Special Needs Counsellor** | June 2019  
-_Escuela Especial Juan Pablo II, Santiago, Chile_  
+_Escuela Especial Juan Pablo II, Santiago, Chile_
 - Running activities and workshops with children and aiding in resolving conflicts.
 
 
