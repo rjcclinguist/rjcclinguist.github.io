@@ -1,11 +1,11 @@
-# Raimundo Cox-Casals (Ray)
+# Raimundo Cox-Casals
 #### [rajˈmundo ˈkɑks kəˈzaɫs]
 
 ### Interests
 Autosegmental and metrical phonology, prosody, articulatory phonetics, the psychology of bilingualism, speech-language disorders, and the language-music interface.
 
 ### About me
-I am a student at Universtité de Montréal completing a master's degree in theoretical linguistics and graduating in 2027.
+I'm Ray, a master's student in theoretical linguistics at Université de Montréal and graduating in 2027.
 
 I specialize in phonology, the study of sound systems in natural language. Phonologists look to build abstract mathematical models that represent how sounds are generated in our brains. Specifically, I use phonetic data (acoustic measurements) and psycholinguistic data (cognitive information) to make predictions about the patterns of interaction between speech sounds in different languages.
 
