@@ -3,7 +3,7 @@
 
 | [About me](README.md) | [CV](cv.md) | [Projects](projects.md) | **Contact** | 
 
-**English** \| [Français](contactfr.md)
+**English** \| [Français](french/contactfr.md)
 
 ## Contact
 ### Raimundo Cox-Casals
