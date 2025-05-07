@@ -2,7 +2,7 @@
 #### [rajˈmundo ˈkɑks kəˈzaɫs]
 
 | **About me** | [CV](cv.md) | [Projects](projects.md) | [Contact](contact.md) |
-| **English** \| [Français](LISMOI.md) \| [Español](LEEME.md) \| [Català](LLEGEIXEM.md) |
+| **English** | \| [Français](LISMOI.md) | \| [Español](LEEME.md) | \| [Català](LLEGEIXEM.md) |
 
 ### Interests
 Autosegmental and metrical phonology, prosody, articulatory phonetics, the psychology of bilingualism, speech-language disorders, and the language-music interface.
