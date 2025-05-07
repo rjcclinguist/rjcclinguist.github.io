@@ -3,7 +3,7 @@
 
 | **About me** | [CV](cv.md) | [Projects](projects.md) | [Contact](contact.md) |
 
-**English** \| [Français](LISMOI.md) \| [Español](LEEME.md) \| [Català](LLEGEIXEM.md)
+**English** \| [Français](LISMOI.md)
 
 ## About me
 ### Interests
