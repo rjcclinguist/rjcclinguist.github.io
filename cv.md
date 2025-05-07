@@ -3,7 +3,7 @@
 
 | [About me](README.md) | **CV** | [Projects](projects.md) | [Contact](contact.md) | 
 
-**English** \| [Français](cvfr.md)
+**English** \| [Français](french/cvfr.md)
 
 ## Curriculum Vitae
 ### Education
