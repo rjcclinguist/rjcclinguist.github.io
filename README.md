@@ -9,14 +9,12 @@ Autosegmental and metrical phonology, prosody, articulatory phonetics, the psych
 ### About me
 I'm Ray, a master's student in theoretical linguistics at Université de Montréal and graduating in 2027.
 
-I specialize in phonology, the study of sound systems in natural language. Phonologists look to build abstract mathematical models that represent how sounds are generated in our brains. Specifically, I use phonetic data (acoustic measurements) and psycholinguistic data (cognitive information) to make predictions about the patterns of interaction between speech sounds in different languages.
+I specialize in phonology, the study of sound systems in natural language. Phonologists look to build abstract mathematical models that represent how sounds are generated in our brain. Specifically, I use phonetic data (acoustic measurements) and psycholinguistic data (cognitive information) to make predictions about the patterns of interaction between speech sounds in different languages.
 
-My honours thesis focused on the mental representations of consonants in Chilean Spanish, and how a seemingly long consonant is derived from the convergence of two short consonants.
+My honours thesis focused on the mental representations of consonants in Chilean Spanish, and how a seemingly long consonant is derived from the convergence of two short consonants. This project looked to model the abtract underlying forms of different consonants, and how their surface phonetic forms are derived depending on their surrounding sounds.
 
-### Education
-- M.A.Sc. Linguistics - Université de Montréal (ongoing)
-- B.A. (Hons.) Linguistics, Minor in Music - McGill University (2025)
+I have also studied the connection between language structure, and music or poetry. How poems and songs are written across different languages gives clues toward the rhythmic, tonal, and intonational properties of different language systems. By comparing haikus written in Japanese and English, I motivated a revised model to capture typological differences in the role of the syllable in the two languages.
 
-### Professional Experience
-**Transcriptionist (Research Assistant)**  
-Prof. Heather Goad's Laboratory
+Other topics I have investigated include the mechanics of tone and stress. These two prosodic elements are often described as being on a continuum, however, by drawing from existing evidence from Athabaskan languages (Pacific Northwest), I have argued that these are categorically different aspects of a language's phonology. Additionally, I looked at the interaction between stress and intonation in Sereer-Sine (Senegal) to uncover the various ways in which vocal pitch is manipulated by language.
+
+Overall, my expertise lie in the musical aspects of language: rhythm, pitch, length, and the interaction between sounds. With my experience in linguistics and music, I approach my research with the scrutiny of a scientist and the tact of an artist.
