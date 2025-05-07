@@ -12,7 +12,7 @@
 **Languages**  
 - English - fluent (dominant language)  
 - Spanish - fluent (native language)  
-- French - advanced (C1)  
+- French - advanced (B2)  
 - Catalan - advanced (heritage language)  
 - Italian - intermediate (B1)
 
