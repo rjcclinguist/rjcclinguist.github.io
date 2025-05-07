@@ -1,7 +1,7 @@
 # Raimundo Cox-Casals
 #### [rajˈmundo ˈkɑks kəˈzaɫs]
 
-| **About me** | [CV](cv.md) | [Projects](projects.md) | [Read my work](cox2025pseudo-gems.pdf) | [Contact](contact.md) |
+| **About me** | [CV](cv.md) | [Projects](projects.md) | [Read my work](papers.md) | [Contact](contact.md) |
 
 **English** \| [Français](french/LISMOI.md)
 
