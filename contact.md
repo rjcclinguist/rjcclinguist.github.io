@@ -8,4 +8,5 @@
 Graduate Student  
 Université de Montréal | Linguistics and Translation  
 **Email:** raimundo.cox.casals@umontreal.ca  
+**Phone:** +1 514 4483532
 _Message me with questions or if you just want to chat._
