@@ -1,7 +1,7 @@
 # Raimundo Cox-Casals
 #### [rajˈmundo ˈkɑks kəˈzaɫs]
 
-| **À propos de moi** | [CV](cvfr.md) | [Projets](projects.md) | [Contact](contact.md) |
+| **À propos de moi** | [CV](cvfr.md) | [Projets](projectsfr.md) | [Contact](contactfr.md) |
 
 [English](README.md) \| **Français**
 
