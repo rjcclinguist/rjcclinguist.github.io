@@ -3,7 +3,7 @@
 
 | [À propos de moi](LISMOI.md) | **CV** | [Projets](projectsfr.md) | [Lisez mes recherches](papersfr.md) | [Contact](contactfr.md) | 
 
-[English](cv.md) \| **Français**
+[English](../cv.md) \| **Français**
 
 ## Curriculum Vitae
 ### Formation
