@@ -13,4 +13,4 @@ Cox-Casals, R. (2025a). Teasing apart tone and stress in Athabaskan. _JournalLin
 
 Cox-Casals, R. & Melançon, W. (2024). _Stress and intonation in Sereer-Sine: A preliminary analysis_ \[Unpublished manuscript\]. Department of Linguistics, McGill University. [Lisez ici](papers/cox&melancon2024 sereer.pdf)
 
-Cox-Casals, R. (2023). Language constrains poetry \[Unpublished manuscript\]. McGill Writing Centre.
+Cox-Casals, R. (2024, March 9). _Language constrains poetry_ \[Conference presentation\]. TULCON 17, University of Toronto, Toronto, ON. [Lisez ici](papers/cox2023 poetry.pdf)
