@@ -3,7 +3,7 @@
 
 | [À propos de moi](LISMOI.md) | [CV](cvfr.md) | [Projets](projectsfr.md) | [Lisez mes recherches](papersfr.md) | **Contact** | 
 
-[English](contact.md) \| **Français**
+[English](../contact.md) \| **Français**
 
 ## Contact
 ### Raimundo Cox-Casals
