@@ -11,6 +11,6 @@ Cox-Casals, R. (2025b). _Pseudo-geminates: An autosegmental approach to consonan
 
 Cox-Casals, R. (2025a). Teasing apart tone and stress in Athabaskan. _JournalLing 4_(5), 49-76. [Read here](papers/cox2025a athabaskan.pdf)
 
-Cox-Casals, R. & Melançon, W. (2024). _Stress and intonation in Sereer-Sine: A preliminary analysis_ \[Unpublished manuscript\]. Department of Linguistics, McGill University.
+Cox-Casals, R. & Melançon, W. (2024). _Stress and intonation in Sereer-Sine: A preliminary analysis_ \[Unpublished manuscript\]. Department of Linguistics, McGill University. [Read here](papers/cox&melancon2024 sereer.pdf)
 
 Cox-Casals, R. (2023). Language constrains poetry \[Unpublished manuscript\]. McGill Writing Centre.
