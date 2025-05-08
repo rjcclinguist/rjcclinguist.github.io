@@ -3,7 +3,7 @@
 
 | **À propos de moi** | [CV](cvfr.md) | [Projets](projectsfr.md) |[Lisez mes recherches](papersfr.md) | [Contact](contactfr.md) |
 
-[English](README.md) \| **Français**
+[English](../README.md) \| **Français**
 
 ## À propos de moi
 ### Intérêts
