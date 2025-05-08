@@ -3,6 +3,6 @@
 
 | [À propos de moi](LISMOI.md) | [CV](cvfr.md) | **Projets** | [Lisez mes recherches](papersfr.md) | [Contact](contactfr.md) |
 
-[English](projects.md) \| **Français**
+[English](../projects.md) \| **Français**
 
 ## Projets
