@@ -95,6 +95,10 @@ _Presentation at TULCON 17. University of Toronto, Toronto ON_
 **Language Constrains Poetry** | April 2023  
 _Term paper for WCOM 250: Research Essay and Rhetoric_
 
+### Awards
+**First-class Honours Distinction**
+_McGill University (2025)_
+
 ### Volunteering and Additional Experience
 **Academic Reading Group** | 2024–ongoing  
 _McGill's P*-Group (Phonetics and Phonology)_
