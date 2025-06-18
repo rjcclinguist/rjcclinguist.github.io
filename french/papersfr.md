@@ -8,7 +8,7 @@
 ## Lisez mes recherches
 
 Cox-Casals, R. (2025, Juin 4). _Consonant features of Chilean Spanish: A case of
-lenition and underspecification_ \[Poster presentation\]. ACL: Congrès annuel de 2025, McGill University, Montréal, QC. [Lisez ici](../papers/HT poster.pdf)
+lenition and underspecification_ \[Présentation par affiche\]. ACL: Congrès annuel de 2025, McGill University, Montréal, QC. [Lisez ici](../papers/HT poster.pdf)
 
 Cox-Casals, R. (2025b). _Pseudo-geminates: An autosegmental approach to consonant "lengthening" in Chilean Spanish_ \[Unpublished honours thesis\]. McGill University. [Lisez ici](../papers/cox2025b pseudo-gems.pdf)
 
