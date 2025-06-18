@@ -7,6 +7,9 @@
 
 ## Lisez mes recherches
 
+Cox-Casals, R. (2024, Juin 4). _Consonant Features of Chilean Spanish: A Case of
+Lenition and Underspecification_ \[Poster presentation\]. Association canadienne de linguistique: Congrès annuel de 2025. [Lisez ici](../papers/HT poster.pdf)
+
 Cox-Casals, R. (2025b). _Pseudo-geminates: An autosegmental approach to consonant "lengthening" in Chilean Spanish_ \[Unpublished honours thesis\]. McGill University. [Lisez ici](../papers/cox2025b pseudo-gems.pdf)
 
 Cox-Casals, R. (2025a). Teasing apart tone and stress in Athabaskan. _JournalLing 4_(5), 49-76. [Lisez ici](../papers/cox2025a athabaskan.pdf)
