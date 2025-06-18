@@ -7,8 +7,8 @@
 
 ## Curriculum Vitae
 ### Education
-- M.A.Sc. in Linguistics - Université de Montréal (ongoing)
-- B.A. (Hons.) in Linguistics, Minor in Music - McGill University (2025)
+- MASc in Linguistics - Université de Montréal (ongoing)
+- BA (Hons.) in Linguistics, Minor in Music - McGill University (2025)
 
 ### Skills
 **Languages**  
@@ -68,10 +68,10 @@ _Chromatones A Cappella_
 _Self-employed_
 - Offering flexible private ESL lessons via Zoom.
 
-### Papers and Talks
+### Papers and Conferences
 **Consonant Features of Chilean Spanish: A Case of Lenition and
-Underspecification** (poster) | June 2025 (forthcoming)  
-_72nd annual conference of the Canadian Linguistics Association_
+Underspecification** (poster) | June 2025  
+_72nd annual conference of the Canadian Linguistic Association_
 
 **Pseudo-Geminates: An Autosegmental Approach to Consonant
 “Lengthening” in Chilean Spanish** | May 2025  
@@ -96,7 +96,7 @@ _Presentation at TULCON 17. University of Toronto, Toronto ON_
 _Term paper for WCOM 250: Research Essay and Rhetoric_
 
 ### Awards
-**First-class Honours Distinction**
+**First-class Honours Distinction**  
 _McGill University (2025)_
 
 ### Volunteering and Additional Experience
