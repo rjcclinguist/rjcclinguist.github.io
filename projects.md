@@ -7,7 +7,7 @@
 
 ## Projects
 
-### Lexical stress in French? ###
+### Lexical stress in French?
 
 Currently, I am investigating the absence of word-level stress in French by measuring the brain responses of French vs. English speakers (and bilinguals) while listening to song lyrics. In a musical melody, different accentuation strategies can be applied to a note to make it more prominant relative to its surrounding notes. These types of musical accent are analogous with the phonetic cues for linguistic stress: pitch, duration, and intenisty, so writing a song is an excellent way of individually manipulating each of these correlates.
 
