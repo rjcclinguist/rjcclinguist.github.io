@@ -7,7 +7,7 @@
 
 ## Curriculum Vitae
 ### Formation
-- MASc en linguistique – Université de Montréal (en cours)
+- MA&Sc en linguistique – Université de Montréal (en cours)
 - BA (spécialisé) en linguistique, mineure en musique – McGill University (2025)
 
 ### Compétences
