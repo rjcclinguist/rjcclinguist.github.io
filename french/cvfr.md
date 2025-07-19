@@ -69,31 +69,22 @@ _Auto-entrepreneur_
 - Cours privés flexibles d’anglais langue seconde (ESL) via Zoom.
 
 ### Articles et présentations
-**Consonant Features of Chilean Spanish: A Case of Lenition and
-Underspecification** (affiche) | Juin 2025 (à venir)  
-_72e congrès annuel de l’Association canadienne de linguistique_
 
-**Pseudo-Geminates: An Autosegmental Approach to Consonant
-“Lengthening” in Chilean Spanish** | Mai 2025  
-_Mémoire de spécialisation_
+Cox-Casals, R. (2025, Juin 4). _Consonant features of Chilean Spanish: A case of lenition and underspecification_ \[Présentation par affiche\]. CLA: Congrès annuel de 2025, McGill University, Montréal, QC.
 
-**Moving from Compensatory Lengthening to Partial Assimilation in Chilean Spanish** | Avril 2025  
-_Présentation à McCCLU 11. McGill University, Montréal QC_
+Cox-Casals, R. (2025b). _Pseudo-geminates: An autosegmental approach to consonant “lengthening” in Chilean Spanish_ \[Mémoire de spécialisation\]. McGill University.
 
-**Teasing Apart Tone and Stress in Athabaskan** | Mars 2025  
-_Dans le Volume IV du JournalLing (revue de linguistique de premier cycle de McGill)_
+Cox-Casals, R. (2025, Avril 6). _Moving from compensatory lengthening to partial assimilation in Chilean Spanish_ \[Présentation orale\]. McCCLU 11, McGill University, Montreal QC.
 
-**Not Everything is a Geminate: Linking Features to Prosody in Chilean Spanish** | Mars 2025  
-_Présentation à TULCON 18. University of Toronto, Toronto ON_
+Cox-Casals, R. (2025a). Teasing apart tone and stress in Athabaskan. _JournalLing 4_(5), 49-76.
 
-**Stress and Intonation in Sereer-Sine: A Preliminary Analysis** | Décembre 2024  
-_Thèse coécrite pour LING 415 : Field Methods in Linguistics_
+Cox-Casals, R. (2025, Mars 8). _Not everything is a geminate: Linking features to prosody in Chilean Spanish_ \[Présentation orale\]. TULCON 18, University of Toronto, Toronto, ON.
 
-**Language Constrains Poetry: A Look at Japanese Haiku** | Mars 2024  
-_Présentation à TULCON 17. University of Toronto, Toronto ON_
+Cox-Casals, R. & Melançon, W. (2024). _Stress and intonation in Sereer-Sine: A preliminary analysis_ \[Thèse de semestre\]. LING 415: Field Methods of Linguistics, McGill University.
 
-**Language Constrains Poetry** | Avril 2023  
-_Thèse pour WCOM 250 : Research Essay and Rhetoric_
+Cox-Casals, R. (2024, Mars 9). _Language constrains poetry: Evidence from Japanese haiku_ \[Présentation orale\]. TULCON 17, University of Toronto, Toronto, ON.
+
+Cox-Casals, R. (2023). _Language constrains poetry_ \[Thèse de semestre\]. WCOM 250: Research Essay and Rhetoric, McGill University.
 
 ### Prix
 **Distinction de honneur de première classe**
