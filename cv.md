@@ -69,31 +69,21 @@ _Self-employed_
 - Offering flexible private ESL lessons via Zoom.
 
 ### Papers and Conferences
-**Consonant Features of Chilean Spanish: A Case of Lenition and
-Underspecification** (poster) | June 2025  
-_72nd annual conference of the Canadian Linguistic Association_
+Cox-Casals, R. (2025, June 4). _Consonant features of Chilean Spanish: A case of lenition and underspecification_ [Poster presentation]. CLA: 2025 Annual Meeting, McGill University, Montreal, QC.
 
-**Pseudo-Geminates: An Autosegmental Approach to Consonant
-“Lengthening” in Chilean Spanish** | May 2025  
-_Honours Thesis_
+Cox-Casals, R. (2025b). _Pseudo-geminates: An autosegmental approach to consonant “lengthening” in Chilean Spanish_ [BA honours thesis]. McGill University.
 
-**Moving from Compensatory Lengthening to Partial Assimilation in Chilean Spanish** | April 2025  
-_Presentation at McCCLU 11. McGill University, Montreal QC_
+Cox-Casals, R. (2025, April 6). _Moving from compensatory lengthening to partial assimilation in Chilean Spanish_ [Conference presentation]. McCCLU 11, McGill University, Montreal QC.
 
-**Teasing Apart Tone and Stress in Athabaskan** | March 2025  
-_In Volume IV of JournalLing (McGill’s Undergraduate Linguistics Journal)_
+Cox-Casals, R. (2025a). Teasing apart tone and stress in Athabaskan. _JournalLing 4_(5), 49-76.
 
-**Not Everything is a Geminate: Linking Features to Prosody in Chilean Spanish** | March 2025  
-_Presentation at TULCON 18. University of Toronto, Toronto ON_
+Cox-Casals, R. (2025, March 8). _Not everything is a geminate: Linking features to prosody in Chilean Spanish_ [Conference presentation]. TULCON 18, University of Toronto, Toronto, ON.
 
-**Stress and Intonation in Sereer-Sine: A Preliminary Analysis** | December 2024  
-_Co-authored final paper for LING 415: Field Methods in Linguistics_
+Cox-Casals, R. & Melançon, W. (2024). _Stress and intonation in Sereer-Sine: A preliminary analysis_ [Term paper]. LING 415: Field Methods of Linguistics, McGill University.
 
-**Language Constrains Poetry: A Look at Japanese Haiku** | March 2024  
-_Presentation at TULCON 17. University of Toronto, Toronto ON_
+Cox-Casals, R. (2024, March 9). _Language constrains poetry: Evidence from Japanese haiku_ [Conference presentation]. TULCON 17, University of Toronto, Toronto, ON.
 
-**Language Constrains Poetry** | April 2023  
-_Term paper for WCOM 250: Research Essay and Rhetoric_
+Cox-Casals, R. (2023). _Language constrains poetry_ [Term paper]. WCOM 250: Research Essay and Rhetoric, McGill University.
 
 ### Awards
 **First-class Honours Distinction**  
