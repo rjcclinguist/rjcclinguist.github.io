@@ -12,10 +12,10 @@
 
 ### Compétences
 **Langues**
-- Anglais – courant (langue dominante)
-- Espagnol – courant (langue maternelle)
+- Anglais – avancé (langue dominante)
+- Espagnol – avancé (langue maternelle)
 - Français – avancé
-- Catalan – avancé (langue d’héritage)
+- Catalan – intermédiaire (langue d’héritage)
 - Italien – intermédiaire
 
 **Logiciels**
