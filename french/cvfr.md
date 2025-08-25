@@ -14,9 +14,9 @@
 **Langues**
 - Anglais – courant (langue dominante)
 - Espagnol – courant (langue maternelle)
-- Français – avancé (B2)
+- Français – avancé
 - Catalan – avancé (langue d’héritage)
-- Italien – intermédiaire (B1)
+- Italien – intermédiaire
 
 **Logiciels**
 - MS Office (Excel, Word, Outlook, etc.)
@@ -26,22 +26,22 @@
 
 ### Expérience professionnelle
 **Mentor pair** | 2023–en cours  
-_LingUA — Association des étudiant·e·s en linguistique_
+_LingUA — Association des étudiant·e·s en linguistique (McGill)_
 - Tutorat privé pour les étudiant·e·s de premier cycle en linguistique.
 
 **Transcripteur (Assistant de recherche)** | 2023–2024  
-_Laboratoire de la Pr Heather Goad (McGill University)_
+_Laboratoire de la Pr Heather Goad (McGill)_
 - Transcription (en API) de données sur l’acquisition du langage chez les enfants bilingues pour des recherches en orthophonie.
 - Analyse des schémas sonores spécifiques et identification des différences dialectales à l’aide de Praat.
 
 ### Expérience en recherche
-**Co-chercheur dans une étude en psycholinguistique** | Hiver 2025–en cours  
-_Prosody Lab, PI Michael Wagner (McGill University)_
+**Co-chercheur en psycholinguistique** | Hiver 2025–en cours  
+_Prosody Lab, Directeur Michael Wagner (McGill)_
 - Conception et révision de stimuli pour des expériences psycholinguistiques auprès de locuteurs d'espagnol et de portugais.
 - Apport d’un point de vue de locuteur natif et discussions avec l’équipe de recherche.
 
 **Mémoire de baccalauréat et travail de terrain sur l’espagnol chilien** | Automne 2024–en cours  
-_Supv Heather Goad_
+_Directrice Heather Goad_
 - Collecte de données auprès de locuteurs natifs de l’espagnol chilien par élicitations en personne.
 - Compilation des données avec Praat et tableurs, et création de diagrammes avec LaTeX.
 
@@ -52,19 +52,19 @@ _LING 415 : Field Methods of Linguistics_
 
 ### Expérience d’enseignement
 **Cours invité sur la phonologie métrique** | Octobre 2024  
-_LING 410 : Structure d’une langue spécifique (japonais)_
+_LING 410 : Structure of a Specific Language (japonais)_
 - Présentation de recherches sur la structure prosodique en japonais et en anglais, avec des exemples tirés de la poésie et de la chanson.
 
 **Séances de révision** | Octobre 2024  
 _LING 351 (mi-session et examen final), LING 201 (mi-session)_
-- Animation de séances de révision pour les examens dans des cours de linguistique de premier cycle.
+- Animation de séances de révision pour les examens dans des cours de linguistique de 1<sup>ier</sup> cycle.
 
 **Co-directeur musical** | 2023–2025  
 _Chromatones A Cappella_
 - Direction musicale d’un ensemble universitaire a cappella en répétition et concert.
 - Révision et arrangement de partitions pour le répertoire du groupe.
 
-**Tuteur en langues** | 2020–2022  
+**Tuteur en langue** | 2020–2022  
 _Auto-entrepreneur_
 - Cours privés flexibles d’anglais langue seconde (ESL) via Zoom.
 
@@ -92,7 +92,7 @@ _McGill University (2025)_
 
 ### Bénévolat et expérience additionelle
 **Groupe de lecture académique** | 2024–en cours
-_Le P* Group de McGill (Phonetics and Phonology)_
+_Le P* Group de McGill (phonétique et phonologie)_
 
 **Aide bénévole en orthophonie** | Automne 2024  
 _Blocks Therapy, Montréal QC_
