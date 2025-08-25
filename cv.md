@@ -15,7 +15,7 @@
 - English - fluent (dominant language)  
 - Spanish - fluent (native language)  
 - French - advanced   
-- Catalan - advanced (heritage language)  
+- Catalan - intermediate (heritage language)  
 - Italian - intermediate 
 
 **Software**  
