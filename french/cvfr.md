@@ -90,7 +90,7 @@ Cox-Casals, R. (2023). _Language constrains poetry_ \[Thèse de semestre\]. WCOM
 **Distinction de honneur de première classe**
 _McGill University (2025)_
 
-### Bénévolat et expérience additionelle
+### Bénévolat et expérience additionnelle
 **Groupe de lecture académique** | 2024–en cours
 _Le P* Group de McGill (phonétique et phonologie)_
 
