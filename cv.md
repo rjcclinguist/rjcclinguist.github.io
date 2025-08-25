@@ -14,9 +14,9 @@
 **Languages**  
 - English - fluent (dominant language)  
 - Spanish - fluent (native language)  
-- French - advanced (B2)  
+- French - advanced   
 - Catalan - advanced (heritage language)  
-- Italian - intermediate (B1)
+- Italian - intermediate 
 
 **Software**  
 - MS Office (Excel, Word, Outlook, etc.)  
@@ -30,13 +30,13 @@ _Linguistics Undergraduate Association (LingUA)_
 - Private tutoring for undergraduate students enrolled in linguistics courses.
 
 **Transcriptionist (RA)** | 2023-2024  
-_Prof. Heather Goad’s Laboratory (McGill University)_
+_Prof. Heather Goad’s Laboratory (McGill)_
 -	Transcribing (in IPA) data on bilingual child language acquisition for research in speech-language pathology.
 - Analyzing specific speech sound patterns and identifying dialect differences using Praat.
 
 ### Research Experience
 **Co-Investigator in Psycholinguistics Study** | Winter 2025-ongoing  
-_Prosody Lab, PI Michael Wagner (McGill University)_
+_Prosody Lab, PI Michael Wagner (McGill)_
 -	Designing and revising stimuli for psycholinguistic experiments on Spanish and Portuguese speakers.
 - Providing native speaker insight and discussing advancements with the research team.
 
