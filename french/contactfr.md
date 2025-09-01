@@ -6,9 +6,9 @@
 [English](../contact.md) \| **Français**
 
 ## Contact
-### Raimundo Cox-Casals (Ray)  
+### Raimundo Cox-Casals (Ray)
 Étudiant diplômé  
-Faculté des arts et sciences - Département de linguistique et traduction  
+Faculté des arts et des sciences | Département de linguistique et traduction  
 Université de Montréal   
 **Courriel:** raimundo.cox.casals@umontreal.ca  
 **Phone:** +1 514 4483532  
