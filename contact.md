@@ -8,8 +8,8 @@
 ## Contact
 ### Raimundo Cox-Casals (Ray)
 Graduate Student  
-Faculty of Arts & Sciences – Department of Linguistics and Translation  
-Université de Montréal
+Faculty of Arts & Sciences | Department of Linguistics and Translation  
+Université de Montréal  
 **Email:** raimundo.cox.casals@umontreal.ca  
 **Phone:** +1 514 4483532  
 _Message me with questions or if you just want to chat._
