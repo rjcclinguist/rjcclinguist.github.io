@@ -18,8 +18,8 @@
 - Catalan – intermédiaire (langue d’héritage)
 - Italien – intermédiaire
 
-**Logiciels**
-- MS Office (Excel, Word, Outlook, etc.)
+**Logiciels et langues de programmation**
+- R(studio)
 - Praat
 - LaTeX
 - LogicProX
@@ -68,7 +68,7 @@ _Chromatones A Cappella_
 _Auto-entrepreneur_
 - Cours privés flexibles d’anglais langue seconde (ESL) via Zoom.
 
-### Articles et présentations
+### Articles et présentations de conférence
 
 Cox-Casals, R. (2025, Juin 4). _Consonant features of Chilean Spanish: A case of lenition and underspecification_ \[Présentation par affiche\]. CLA: Congrès annuel de 2025, McGill University, Montréal, QC.
 
@@ -87,6 +87,9 @@ Cox-Casals, R. (2024, Mars 9). _Language constrains poetry: Evidence from Japane
 Cox-Casals, R. (2023). _Language constrains poetry_ \[Thèse de semestre\]. WCOM 250: Research Essay and Rhetoric, McGill University.
 
 ### Prix
+**Bourse d'études postsecondaires en français langue seconde ($3 000)**
+_Université de Montréal (2025-2026)_
+
 **Distinction de honneur de première classe**
 _McGill University (2025)_
 
