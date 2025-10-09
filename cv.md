@@ -87,7 +87,7 @@ Cox-Casals, R. (2023). _Language constrains poetry_ [Term paper]. WCOM 250: Rese
 
 ### Awards
 **Bursary for postsecondary studies in French as a second language ($ 3 000)**  
-_Université de Montréal (2025-2026)_  
+_Université de Montréal (2025-2026)_
 
 **First-class Honours Distinction**  
 _McGill University (2025)_
