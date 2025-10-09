@@ -11,15 +11,15 @@
 - BA (Hons.) in Linguistics, Minor in Music - McGill University (2025)
 
 ### Skills
-**Languages**  
+**Spoken languages**  
 - English - fluent (dominant language)  
 - Spanish - fluent (native language)  
 - French - advanced   
 - Catalan - intermediate (heritage language)  
 - Italian - intermediate 
 
-**Software**  
-- MS Office (Excel, Word, Outlook, etc.)  
+**Software and programming languages**  
+- R(studio)  
 - Praat  
 - LaTeX  
 - LogicProX
@@ -86,6 +86,9 @@ Cox-Casals, R. (2024, March 9). _Language constrains poetry: Evidence from Japan
 Cox-Casals, R. (2023). _Language constrains poetry_ [Term paper]. WCOM 250: Research Essay and Rhetoric, McGill University.
 
 ### Awards
+**Bursary for postsecondary studies in French as a second language ($ 3 000)**  
+_Université de Montréal (2025-2026)_  
+
 **First-class Honours Distinction**  
 _McGill University (2025)_
 
