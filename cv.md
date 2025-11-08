@@ -71,7 +71,7 @@ _Self-employed_
 ### Papers and Conferences
 Cox-Casals, R. (2025, June 4). _Consonant features of Chilean Spanish: A case of lenition and underspecification_ [Poster presentation]. CLA: 2025 Annual Meeting, McGill University, Montreal, QC.
 
-Cox-Casals, R. (2025b). _Pseudo-geminates: An autosegmental approach to consonant “lengthening” in Chilean Spanish_ [BA honours thesis]. McGill University.
+Cox-Casals, R. (2025b). _Pseudo-geminates: An autosegmental approach to consonant “lengthening” in Chilean Spanish_ [BA honours thesis]. McGill University. [https://doi.org/10.13140/RG.2.2.15878.23363](https://doi.org/10.13140/RG.2.2.15878.23363)
 
 Cox-Casals, R. (2025, April 6). _Moving from compensatory lengthening to partial assimilation in Chilean Spanish_ [Conference presentation]. McCCLU 11, McGill University, Montreal QC.
 
