@@ -7,7 +7,7 @@
 
 ## À propos de moi
 ### Intérêts
-Phonologie autosegmentale, psycholinguistique, prosodie, interface langue-musique, pathologie du langage, et psychologie du bilinguisme.
+Phonologie autosegmentale, psycholinguistique, prosodie, l'interface langue-musique, psychologie du bilinguisme, et pathologie du langage.
 
 ### Mes recherches
 Je m'appelle Ray, je suis étudiant à la maîtrise en linguistique théorique à l’Université de Montréal, avec une diplomation prévue en 2027.
