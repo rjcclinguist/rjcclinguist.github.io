@@ -7,7 +7,7 @@
 
 ## About me
 ### Interests
-Autosegmental phonology, psycholinguistics, prosody, language-music interface, speech-language pathology, and psychology of bilingualism.
+Autosegmental phonology, psycholinguistics, prosody, the language-music interface, the psychology of bilingualism, and language pathology.
 
 ### My Research
 I'm Ray, a master's student in theoretical linguistics at Université de Montréal and graduating in 2027.
