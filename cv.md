@@ -7,7 +7,7 @@
 
 ## Curriculum Vitae
 ### Education
-- MA&Sc in Linguistics - Université de Montréal (ongoing)
+- MA in Linguistics - Université de Montréal (expected 2027)
 - BA (Hons.) in Linguistics, Minor in Music - McGill University (2025)
 
 ### Skills
