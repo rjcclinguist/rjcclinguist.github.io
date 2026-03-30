@@ -79,7 +79,7 @@ Cox-Casals, R. (2023). _Language constrains poetry_ \[Manuscrit\]. McGill Univer
 ### Colloques et congrès
 Cox-Casals, R. (2026, 27 mars). _Sonorant Voice Licensing and Minimal Geometry_ [Présentation orale]. MOThQ 2026, Université Laval, Québec, QC.
 
-Cox-Casals, R. (2025, 4 juin). _Consonant features of Chilean Spanish: A case of lenition and underspecification_ \[Affiche\]. CLA: Congrès annuel de 2025, McGill University, Montréal, QC.
+Cox-Casals, R. (2025, 4 juin). _Consonant features of Chilean Spanish: A case of lenition and underspecification_ \[Affiche\]. 72e congrès annuel de l'Association canadienne de linguistique, McGill University, Montréal, QC.
 
 Cox-Casals, R. (2025, 6 avril). _Moving from compensatory lengthening to partial assimilation in Chilean Spanish_ \[Présentation orale\]. McCCLU 11, McGill University, Montréal QC.
 
