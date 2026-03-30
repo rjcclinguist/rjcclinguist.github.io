@@ -77,9 +77,9 @@ Cox-Casals, R. & Melançon, W. (2024). _Stress and intonation in Sereer-Sine: A 
 Cox-Casals, R. (2023). _Language constrains poetry_ [Manuscript]. McGill University, Writing Centre.
 
 ### Conference Presentations
-Cox-Casals, R. (2026, March 27). _Sonorant Voice Licensing and Minimal Geometry_ [Conference presentation]. MOThQ 2026, Université Laval, Quebec, QC.
+Cox-Casals, R. (2026, March 27). _Sonorant Voice Licensing and Minimal Geometry_ [Conference presentation]. MOThQ Phonetics-Phonology Workshop 2026, Université Laval, Quebec, QC.
 
-Cox-Casals, R. (2025, June 4). _Consonant features of Chilean Spanish: A case of lenition and underspecification_ [Poster presentation]. CLA: 2025 Annual Meeting, McGill University, Montreal, QC.
+Cox-Casals, R. (2025, June 4). _Consonant features of Chilean Spanish: A case of lenition and underspecification_ [Poster presentation]. 72nd Annual Conference of the Canadian Linguistic Association, McGill University, Montreal, QC.
 
 Cox-Casals, R. (2025, April 6). _Moving from compensatory lengthening to partial assimilation in Chilean Spanish_ [Conference presentation]. McCCLU 11, McGill University, Montreal QC.
 
@@ -96,13 +96,13 @@ _McGill University (2025)_
 
 ### Service and Volunteering
 **Graduate Students Representative** | 2026-ongoing  
-_Association étudiante de linguistique de l'Univeristé de Montréal_  
+_Association étudiante de linguistique de l'Univeristé de Montréal_
 
 **Speech-Language Pathology Aid** | Fall 2024  
 _Blocks Therapy, Montreal QC_
 
 **Vice-President of Internal Affaires** | 2023–2024  
-_Chromatones A Cappella (McGill)_  
+_Chromatones A Cappella (McGill)_
 
 **Choral Conductor** | 2019  
 _Community chorus, Santiago, Chile_
