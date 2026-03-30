@@ -30,30 +30,30 @@ _Linguistics Undergraduate Association (LingUA)_
 - Tutoring for undergraduate students enrolled in linguistics courses.
 
 **Transcriptionist (RA)** | 2023-2024  
-_Prof. Heather Goad’s Laboratory (McGill)_
+_PI Heather Goad (McGill)_
 -	Phonetic transcription of speech pathological data for research on bilingual child language acquisition.
 
 ### Research Experience
-**Co-Investigator in Psycholinguistics Study** | Winter 2025-ongoing  
+**Co-Investigator** | Winter 2025-ongoing  
 _Prosody Lab, PI Michael Wagner (McGill)_
--	Designing experimental stimuli in Spanish and Portuguese.
+-	Designing experimental stimuli for a psycholinguistic study on Spanish and Portuguese.
 
 **Field Work on Chilean Spanish** | Fall 2024–ongoing  
 _Supv. Heather Goad_
 - In-person elicitaions, and data collection and analysis.
 
 **Field Work on Sereer-Sine** | Fall 2024  
-_LING 415: Field Methods of Linguistics_
+_Field Methods of Linguistics (course)_
 -	In-person elicitaions, data transcription, processing, and analysis.
 
 ### Teaching Experience
-**Guest Lecture on Metrical Phonology** | October 2024  
-_LING 410: Structure of a Specific Language (Japanese)_
+**Guest Lecture on Metrical Phonology** | Fall 2024  
+_Structure of a Specific Language: Japanese (course)_
 - Literature review on Japanese prosodic structure, with data from song and poetry.
 
-**Review Sessions** | October 2024  
-_Introduction to Linguistics, and Phonology 1_
-- Exam review sessions.
+**Review Sessions** | Fall 2024  
+_Introduction to Linguistics, and Phonology 1 (courses)_
+- Teaching exam review sessions for undergraduates.
 
 **Co-Music Director** | 2023-2025  
 _Chromatones A Cappella (McGill)_
@@ -91,7 +91,7 @@ _Université de Montréal (2025-2026)_
 _McGill University (2025)_
 
 ### Service and Volunteering
-**Graduate Students Representative** | Winter 2026-ongoing  
+**Graduate Students Representative** | 2026-ongoing  
 _Association étudiante de linguistique de l'Univeristé de Montréal (AÉLUM)_  
 
 **Speech-Language Pathology Aid** | Fall 2024  
