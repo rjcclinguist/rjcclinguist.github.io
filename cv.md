@@ -25,16 +25,20 @@
 - LogicProX
 
 ### Professional Experience
+**Research Assistant** | 2025-2026  
+_Prof. Michael Wagner (McGill)_
+-	Designing and reviewing psycholinguistic stimuli in Spanish and Portuguese.
+
 **Transcriptionist (RA)** | 2023-2024  
-_PI Heather Goad (McGill)_
+_Prof. Heather Goad (McGill)_
 -	Phonetic transcription of speech pathological data for research on bilingual child language acquisition.
 
 ### Research Experience
-**Co-Investigator** | Winter 2025-ongoing  
-_Prosody Lab, PI Michael Wagner (McGill)_
--	Designing experimental stimuli in Spanish and Portuguese for a psycholinguistic study.
+**Co-Investigator** | 2026-ongoing  
+_Prosody Lab (McGill)_
+-	Experimental study on Mexican Spanish and Brazilian Portuguese.
 
-**Field Work on Chilean Spanish** | Fall 2024–ongoing  
+**Field Work on Chilean Spanish** | 2024–2025  
 _Supv. Heather Goad_
 - In-person elicitaions, and data collection and analysis.
 
@@ -43,7 +47,7 @@ _Field Methods of Linguistics (course)_
 -	In-person elicitaions, data transcription, processing, and analysis.
 
 ### Teaching Experience
-**Peer Mentor** | 2023-ongoing  
+**Peer Mentor** | 2023-2025  
 _Linguistics Undergraduate Association (McGill)_
 - Tutoring for undergraduate students enrolled in linguistics courses.
 
@@ -85,7 +89,7 @@ Cox-Casals, R. (2024, March 9). _Language constrains poetry: Evidence from Japan
 
 ### Awards
 **Bursary for postsecondary studies in French as a second language ($3 000)**  
-_Université de Montréal (2025-2026)_
+_Université de Montréal (2025)_
 
 **First-Class Honours Distinction**  
 _McGill University (2025)_
