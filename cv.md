@@ -12,11 +12,11 @@
 
 ### Skills
 **Spoken languages**  
-- English - fluent (dominant language)  
+- English - fluent (dominant language)
+- French - fluent   
 - Spanish - fluent (native language)  
-- French - advanced   
 - Catalan - intermediate (heritage language)  
-- Italian - intermediate 
+- Italian - intermediate
 
 **Software and programming languages**  
 - R  
