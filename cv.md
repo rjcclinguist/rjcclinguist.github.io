@@ -25,10 +25,6 @@
 - LogicProX
 
 ### Professional Experience
-**Peer Mentor** | 2023-ongoing  
-_Linguistics Undergraduate Association (LingUA)_
-- Tutoring for undergraduate students enrolled in linguistics courses.
-
 **Transcriptionist (RA)** | 2023-2024  
 _PI Heather Goad (McGill)_
 -	Phonetic transcription of speech pathological data for research on bilingual child language acquisition.
@@ -36,7 +32,7 @@ _PI Heather Goad (McGill)_
 ### Research Experience
 **Co-Investigator** | Winter 2025-ongoing  
 _Prosody Lab, PI Michael Wagner (McGill)_
--	Designing experimental stimuli for a psycholinguistic study on Spanish and Portuguese.
+-	Designing experimental stimuli in Spanish and Portuguese for a psycholinguistic study.
 
 **Field Work on Chilean Spanish** | Fall 2024–ongoing  
 _Supv. Heather Goad_
@@ -47,12 +43,16 @@ _Field Methods of Linguistics (course)_
 -	In-person elicitaions, data transcription, processing, and analysis.
 
 ### Teaching Experience
-**Guest Lecture on Metrical Phonology** | Fall 2024  
+**Peer Mentor** | 2023-ongoing  
+_Linguistics Undergraduate Association (McGill)_
+- Tutoring for undergraduate students enrolled in linguistics courses.
+
+**Guest Lecturer** | Fall 2024  
 _Structure of a Specific Language: Japanese (course)_
 - Literature review on Japanese prosodic structure, with data from song and poetry.
 
 **Review Sessions** | Fall 2024  
-_Introduction to Linguistics, and Phonology 1 (courses)_
+_Introduction to Linguistics (course) and Phonology 1 (course)_
 - Teaching exam review sessions for undergraduates.
 
 **Co-Music Director** | 2023-2025  
@@ -84,7 +84,7 @@ Cox-Casals, R. (2025, March 8). _Not everything is a geminate: Linking features 
 Cox-Casals, R. (2024, March 9). _Language constrains poetry: Evidence from Japanese haiku_ [Conference presentation]. TULCON 17, University of Toronto, Toronto, ON.
 
 ### Awards
-**Bursary for postsecondary studies in French as a second language ($ 3 000)**  
+**Bursary for postsecondary studies in French as a second language ($3 000)**  
 _Université de Montréal (2025-2026)_
 
 **First-Class Honours Distinction**  
@@ -92,16 +92,16 @@ _McGill University (2025)_
 
 ### Service and Volunteering
 **Graduate Students Representative** | 2026-ongoing  
-_Association étudiante de linguistique de l'Univeristé de Montréal (AÉLUM)_  
+_Association étudiante de linguistique de l'Univeristé de Montréal_  
 
 **Speech-Language Pathology Aid** | Fall 2024  
 _Blocks Therapy, Montreal QC_
 
-**Vice-President Internal** | 2023–2024  
+**Vice-President of Internal Affaires** | 2023–2024  
 _Chromatones A Cappella (McGill)_  
 
-**Choral Conductor** | July 2019  
+**Choral Conductor** | 2019  
 _Community chorus, Santiago, Chile_
 
-**Special Needs Helper** | June 2019  
+**Special Needs Assistant** | 2019  
 _Escuela Especial Juan Pablo II, Santiago, Chile_
