@@ -8,13 +8,13 @@
 ## Curriculum Vitae
 ### Formation
 - M.A. en linguistique – Université de Montréal (prévu en 2027)
-- B.A. (spécialisé) en linguistique, mineure en musique – McGill University (2025)
+- B.A. (avec mention) en linguistique, mineure en musique – McGill University (2025)
 
 ### Compétences
 **Langues**
 - Anglais – avancé (langue dominante)
-- Espagnol – avancé (langue maternelle)
 - Français – avancé
+- Espagnol – avancé (langue maternelle)
 - Catalan – intermédiaire (langue d’héritage)
 - Italien – intermédiaire
 
@@ -26,16 +26,16 @@
 
 ### Expérience professionnelle
 **Mentor pair** | 2023–en cours  
-_LingUA — Association des étudiant·e·s en linguistique (McGill)_
+_Linguistics Undergraduate Association (McGill)_
 - Tutorat pour des étudiant·es de 1er cycle en linguistique.
 
 **Transcripteur (Assistant de recherche)** | 2023–2024  
-_Laboratoire de la Prof. Heather Goad (McGill)_
+_Prof. Heather Goad (McGill)_
 - Transcription phonétique de données orthophoniques pour des recherches en acquisition du langage chez les enfants bilingues.
 
 ### Expérience en recherche
 **Co-chercheur en psycholinguistique** | Hiver 2025–en cours  
-_Prosody Lab, avec le Prof. Michael Wagner (McGill)_
+_Prosody Lab, Prof. Michael Wagner (McGill)_
 - Création de stimuli expérimentaux en espagnol et en portugais.
 
 **Travail de terrain sur l'espagnol chilien** | Automne 2024–en cours  
@@ -43,17 +43,17 @@ _Directrice Heather Goad_
 - Élicitations en personne, gestion et analyse des données.
 
 **Travail de terrain sur le sérère-sine** | Automne 2024  
-_LING 415 : Field Methods of Linguistics_
+_Field Methods of Linguistics (cours)_
 - Élicitations en personne, et transcription, gestion et analyse des données.
 
 ### Expérience d’enseignement
-**Cours invité sur la phonologie métrique** | Octobre 2024  
-_LING 410 : Structure of a Specific Language (japonais)_
+**Cours invité sur la phonologie métrique** | Automne 2024  
+_Structure of a Specific Language: Japanese (cours)_
 - Analyse des recherches sur la structure prosodique du japonais, avec des données poétiques et musicales.
 
-**Séances de révision** | Octobre 2024  
-_Introduction a la linguistique, et Phonologie 1_
-- Séances de révision pour les examens.
+**Séances de révision** | Automne 2024  
+_Introduction a la linguistique (cours) et Phonologie 1 (cours)_
+- Révision pour les examens pour les étudiant·es de 1er cycle.
 
 **Co-directeur musical** | 2023–2025  
 _Chromatones A Cappella_
@@ -90,23 +90,18 @@ _Université de Montréal (2025-2026)_
 **Distinction de honneur de première classe**
 _McGill University (2025)_
 
-### Service
+### Service et bénévolats
 **Représentant des cycles supérieurs** | Hiver 2026-en cours  
-_Association étudiante de linguistique de l'Univeristé de Montréal (AÉLUM)_  
-- Coordination des activités et des événements.
+_Association étudiante de linguistique de l'Univeristé de Montréal_  
 
-**Aide bénévole en orthophonie** | Automne 2024  
+**Aide en orthophonie** | Automne 2024  
 _Blocks Therapy, Montréal QC_
-- Aide aux séances d’articulation et d’activités sociales pour enfants neurodivergents.
 
 **Vice-président aux affaires internes** | 2023–2024  
 _Chromatones A Cappella (McGill)_  
-- Gestion des communications internes et coordination des événements.
 
 **Chef de chœur** | Juillet 2019  
 _Chorale communautaire, Santiago, Chili_
-- Arrangement musical et direction d’un ensemble vocal de niveau secondaire.
 
-**Animateur pour enfants à besoins particuliers** | Juin 2019  
+**Auxiliaire d'éducation spécialisée** | Juin 2019  
 _Escuela Especial Juan Pablo II, Santiago, Chili_
-- Animation d’activités et ateliers avec des enfants ayant des besoins particuliers.
