@@ -25,20 +25,20 @@
 - LogicProX
 
 ### Expérience professionnelle
-**Mentor pair** | 2023–en cours  
-_Linguistics Undergraduate Association (McGill)_
-- Tutorat pour des étudiant·es de 1er cycle en linguistique.
+**Assistant de recherche** | 2025–2026  
+_Prof. Michael Wagner (McGill)_
+- Création et révision des stimuli psycholinguistiques en espagnol et en portugais.
 
 **Transcripteur (Assistant de recherche)** | 2023–2024  
 _Prof. Heather Goad (McGill)_
 - Transcription phonétique de données orthophoniques pour des recherches en acquisition du langage chez les enfants bilingues.
 
 ### Expérience en recherche
-**Co-chercheur en psycholinguistique** | Hiver 2025–en cours  
-_Prosody Lab, Prof. Michael Wagner (McGill)_
-- Création de stimuli expérimentaux en espagnol et en portugais.
+**Co-chercheur** | 2026-en cours  
+_Prosody Lab (McGill)_
+- Étude expérimentale sur l'espagnol mexicain et le portugais brésilien.
 
-**Travail de terrain sur l'espagnol chilien** | Automne 2024–en cours  
+**Travail de terrain sur l'espagnol chilien** | 2024–2025  
 _Directrice Heather Goad_
 - Élicitations en personne, gestion et analyse des données.
 
@@ -47,13 +47,17 @@ _Field Methods of Linguistics (cours)_
 - Élicitations en personne, et transcription, gestion et analyse des données.
 
 ### Expérience d’enseignement
+**Pair-mentor** | 2023–2025 
+_Linguistics Undergraduate Association (McGill)_
+- Tutorat pour des étudiant·es de 1er cycle en linguistique.
+
 **Cours invité sur la phonologie métrique** | Automne 2024  
 _Structure of a Specific Language: Japanese (cours)_
 - Analyse des recherches sur la structure prosodique du japonais, avec des données poétiques et musicales.
 
 **Séances de révision** | Automne 2024  
 _Introduction a la linguistique (cours) et Phonologie 1 (cours)_
-- Révision pour les examens pour les étudiant·es de 1er cycle.
+- Révision des examens pour les étudiant·es de 1er cycle.
 
 **Co-directeur musical** | 2023–2025  
 _Chromatones A Cappella_
@@ -85,13 +89,13 @@ Cox-Casals, R. (2024, 9 mars). _Language constrains poetry: Evidence from Japane
 
 ### Prix
 **Bourse d'études postsecondaires en français langue seconde ($3 000)**
-_Université de Montréal (2025-2026)_
+_Université de Montréal (2025)_
 
 **Distinction de honneur de première classe**
 _McGill University (2025)_
 
 ### Service et bénévolats
-**Représentant des cycles supérieurs** | Hiver 2026-en cours  
+**Représentant des cycles supérieurs** | 2026-en cours  
 _Association étudiante de linguistique de l'Univeristé de Montréal_  
 
 **Aide en orthophonie** | Automne 2024  
@@ -100,8 +104,8 @@ _Blocks Therapy, Montréal QC_
 **Vice-président aux affaires internes** | 2023–2024  
 _Chromatones A Cappella (McGill)_  
 
-**Chef de chœur** | Juillet 2019  
+**Chef de chœur** | 2019  
 _Chorale communautaire, Santiago, Chili_
 
-**Auxiliaire d'éducation spécialisée** | Juin 2019  
+**Auxiliaire d'éducation spécialisée** | 2019  
 _Escuela Especial Juan Pablo II, Santiago, Chili_
