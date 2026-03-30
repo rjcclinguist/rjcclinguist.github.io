@@ -87,26 +87,21 @@ Cox-Casals, R. (2024, March 9). _Language constrains poetry: Evidence from Japan
 **Bursary for postsecondary studies in French as a second language ($ 3 000)**  
 _Université de Montréal (2025-2026)_
 
-**First-class Honours Distinction**  
+**First-Class Honours Distinction**  
 _McGill University (2025)_
 
-### Service
+### Service and Volunteering
 **Graduate Students Representative** | Winter 2026-ongoing  
 _Association étudiante de linguistique de l'Univeristé de Montréal (AÉLUM)_  
-- Coordination of activities and events.
 
-**Volunteer Speech-Language Pathology Aid** | Fall 2024  
+**Speech-Language Pathology Aid** | Fall 2024  
 _Blocks Therapy, Montreal QC_
-- Helping in articulation therapy and social skills groups for neurodivergent children.
 
 **Vice-President Internal** | 2023–2024  
 _Chromatones A Cappella (McGill)_  
-- Internal communications and coordination of activities and events.
 
 **Choral Conductor** | July 2019  
 _Community chorus, Santiago, Chile_
-- Arranging music and conducting a high school-level vocal ensemble. 
 
-**Special Needs Counsellor** | June 2019  
+**Special Needs Helper** | June 2019  
 _Escuela Especial Juan Pablo II, Santiago, Chile_
-- Running activities and workshops for children with special needs.
