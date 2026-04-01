@@ -1,11 +1,11 @@
 # Raimundo Cox-Casals
-#### [rajˈmundo ˈkɑks kəˈzaɫs]
+#### [rai̯ˈmundo ˈkɑks kəˈzaɫs]
 
 | [About me](README.md) | **CV** | [Projects](projects.md) | [Read my work](papers.md) | [Contact](contact.md) | 
 
 **English** \| [Français](french/cvfr.md)
 
 ## Curriculum Vitae
-# Academic CV in English: [Read here](papers/Cox-Casals_CV(en).pdf)
+### Academic CV in English: [Read here](papers/Cox-Casals_CV(en).pdf)
 
-# CV académique en français: [Lisez ici](papers/Cox-Casals_CV(fr).pdf)
+### CV académique en français: [Lisez ici](papers/Cox-Casals_CV(fr).pdf)
