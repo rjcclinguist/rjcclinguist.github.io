@@ -1,5 +1,5 @@
 # Raimundo Cox-Casals
-#### [rai̯ˈmundo ˈkɑks kəˈzaɫs]
+#### [rajˈmundo ˈkɑks kəˈzaɫs]
 
 | [About me](README.md) | **CV** | [Projects](projects.md) | [Read my work](papers.md) | [Contact](contact.md) | 
 
