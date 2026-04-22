@@ -6,6 +6,6 @@
 [English](../cv.md) \| **Français**
 
 ## Curriculum Vitae
-Academic CV in English: [Read here](../papers/Cox-Casals_CV(en).pdf)
+CV en français: [Lisez ici](../papers/Cox-Casals_CV(fr).pdf)
 
-CV académique en français: [Lisez ici](../papers/Cox-Casals_CV(fr).pdf)
+CV in English: [Read here](../papers/Cox-Casals_CV(en).pdf)
